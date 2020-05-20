@@ -158,6 +158,12 @@ Fork the Project
         </a>
       </td>
       <td align="center">
+        <a href="https://github.com/bagakibadi/">
+          <img width="150" src="https://avatars0.githubusercontent.com/u/31173796?s=460&v=4" alt="Bagus"><br/>
+          <b>Bagus Nur Solayman</b>
+        </a>
+      </td>
+      <td align="center">
         <a href="https://github.com/akbarism">
           <img width="150" src="https://avatars3.githubusercontent.com/u/59020048?s=400&u=3b5166c489574eedef29b414cd18b457bcc6fad3&v=4" alt="Akbar Ismail"><br/>
           <b>Akbar Ismail</b>
